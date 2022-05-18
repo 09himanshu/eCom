@@ -1,2 +1,17 @@
-# eCom-git
-Developing an ecommerce application with node.js, express.js, jwt, bcryptjs, sequelize(ORM), MySQL
+# Nodejs based eCommerce Application
+
+## Features
+- Create the REST APIs for categories
+- Create the REST APIs for Products
+- Adding the search capabilities on products
+- Using middleware for validation
+- Creating authenticated Order APIs
+- Unit Testing the eCommerce Applications
+
+## Tech
+-	Node
+-	Express
+-	Sequelize(ORM)
+-	MySQL
+-	JWT
+-	Jest
