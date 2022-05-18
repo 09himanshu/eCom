@@ -85,7 +85,7 @@ exports.signin = (req, res) => {
                 username: user.username,
                 email: user.email,
                 roles: authorities,
-                token: token
+                token: token,
             })
         });   
     }).catch(err => {
